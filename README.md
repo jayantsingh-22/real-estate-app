@@ -1,6 +1,7 @@
 # Real Estate Website
 - Libraries used: React, React Router & Chakra UI.
 - Filter property to rent by using advanced filter options.
+- Click on the house to view more details.
 
 Run the project on local:
 ```
@@ -14,5 +15,5 @@ Run the application on local server
 ```
 npm run dev
 ```
-Deployed link:
+Deployed link: [click here to visit](https://real-estate-frontend-mu.vercel.app/)
 
