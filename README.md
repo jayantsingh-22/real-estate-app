@@ -1,18 +1,18 @@
 # Real Estate Website
-- Tech used: React, React Router & Chakra UI.
-- You can search houses using given search filter.
-- You can view full details of house by clicking on it.
+- Libraries used: React, React Router & Chakra UI.
+- Filter property to rent by using advanced filter options.
 
-To run this web-app on local server, perform the following instructions.
+Run the project on local:
 ```
-git clone https://github.com/yshinde005/property-rent-app && cd propert-rent-app
+git clone https://github.com/chitranshk1301/real-estate-frontend.git && cd propert-rent-app
 ```
-Now to install dependencies,
+Install project dependencies,
 ```
-npm install
+npm i
 ```
-And finally to run the application on local server
+Run the application on local server
 ```
 npm run dev
 ```
+Deployed link:
 
