@@ -17,31 +17,31 @@ export const theme = extendTheme({
   styles: {
     global: {
         body: {
-            bg: 'pink.50'
+            bg: 'purple.50'
         }
     }
   },
   components: {
     Button: {
       defaultProps: {
-        colorScheme: 'pink', // default is gray
+        colorScheme: 'purple', // default is gray
       }
     },
     Input:{
       defaultProps: {
-        focusBorderColor: 'pink.500'
+        focusBorderColor: 'purple.500'
       }
     },
     Select:{
       baseStyle: {
         _focus: {
-          borderColor: 'pink.500'
+          borderColor: 'purple.500'
         }
       }
     },
     Textarea:{
       defaultProps: {
-        focusBorderColor: 'pink.500'
+        focusBorderColor: 'purple.500'
       }
     }
   }

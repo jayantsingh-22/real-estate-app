@@ -17,7 +17,7 @@ const HouseItem = ({ house }) => {
         <Image src={house.imageLg} h='170' alt='houses' />
 
         <VStack p='4' align='left'>
-            <Text mt="-1" fontWeight="extrabold" fontSize="18px" color="pink.500">
+            <Text mt="-1" fontWeight="extrabold" fontSize="18px" color="purple.500">
             Rs.{house.price}
             <span style={{ fontSize: 12, color: "grey", fontWeight: "normal" }}>
                 /month
