@@ -4,3 +4,13 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto Slab', serif;
 }
+
+.date-picker {
+  border-width: 1px;
+  border-radius: 0.25rem;
+  padding:0.5rem;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  --tw-border-opacity: 1;
+  border-color: rgb(59 130 246 / var(--tw-border-opacity));
+}

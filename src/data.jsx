@@ -81,6 +81,7 @@ export const housesData = [
       name: 'Patricia Tullert',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 2,
@@ -123,6 +124,7 @@ export const housesData = [
       name: 'Amado Smith',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-09-01'),
   },
   {
     id: 4,
@@ -144,6 +146,7 @@ export const housesData = [
       name: 'Kaitlyn Gonzalez',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 5,
@@ -165,6 +168,7 @@ export const housesData = [
       name: 'Grover Robinson',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 6,
@@ -186,6 +190,7 @@ export const housesData = [
       name: 'Karen Sorensen',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 7,
@@ -207,6 +212,7 @@ export const housesData = [
       name: 'Jawhar Shamil Naser',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 8,
@@ -228,6 +234,7 @@ export const housesData = [
       name: 'Juana Douglass',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 9,
@@ -249,6 +256,7 @@ export const housesData = [
       name: 'Jerry Schenck',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 10,
@@ -270,6 +278,7 @@ export const housesData = [
       name: 'Vera Levesque',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 11,
@@ -291,6 +300,7 @@ export const housesData = [
       name: 'Sofia Gomes',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 12,
@@ -312,6 +322,7 @@ export const housesData = [
       name: 'Raymond Hood',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 13,
@@ -333,6 +344,7 @@ export const housesData = [
       name: 'Patricia Tullert',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 14,
@@ -354,6 +366,7 @@ export const housesData = [
       name: 'Daryl Hawker',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 15,
@@ -375,6 +388,7 @@ export const housesData = [
       name: 'Amado Smith',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 16,
@@ -396,6 +410,7 @@ export const housesData = [
       name: 'Kaitlyn Gonzalez',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 17,
@@ -417,6 +432,7 @@ export const housesData = [
       name: 'Grover Robinson',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
   {
     id: 18,
@@ -438,5 +454,6 @@ export const housesData = [
       name: 'Karen Sorensen',
       phone: '0123 456 78910',
     },
+    moveInDate: new Date('2023-08-15'),
   },
 ];
