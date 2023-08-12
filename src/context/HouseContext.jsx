@@ -124,7 +124,7 @@ const HouseProvider = ({ children }) => {
   const [price, setPrice] = useState("Select Price");
   const [property, setProperty] = useState("Select type");
   const [properties, setProperties] = useState([]);
-  const [moveInDate, setMoveInDate] = useState(new Date());
+  const [moveInDate, setMoveInDate] = useState();
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {

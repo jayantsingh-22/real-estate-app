@@ -1,13 +1,19 @@
-import { Text, Center} from '@chakra-ui/react';
+import { Text, Center } from "@chakra-ui/react";
 
 const Footer = () => {
   return (
     <>
-      <Center borderTopEndRadius='50%' mt='8' py='20px' bg='purple.700' color='white'>
-        <Text fontSize='15px'>Real estate frontend</Text>
+      <Center
+        borderRadius="2%"
+        mt="8"
+        py="20px"
+        bg="purple.700"
+        color="white"
+      >
+        <Text fontSize="15px">Estatery &copy; 2023</Text>
       </Center>
     </>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

@@ -1,31 +1,3 @@
-// import { Select } from '@chakra-ui/react'
-// import { useContext } from 'react';
-// import { DateContext } from '../../context/DateContext';
-
-// const MoveInDateFilter = () => {
-
-//   const {setMoveInDate, moveInDate} = useContext(DateContext);
-
-//   const dateHandler = (event)=> {
-//     setMoveInDate(event.target.value);
-//   }
-
-//   return (
-//     // <Select placeholder='Select Move in date' onChange={dateHandler}>
-//     //   {
-//     //     countries.map((country, index)=>
-//     //       <option key={index}>{country}</option>
-//     //     )
-//     //   }
-//     // </Select>
-//     <input type="date"
-//       value={moveInDate}
-//       onChange={(e) => {e.target.value}}
-//     />
-//   );
-// };
-
-// export default MoveInDateFilter;
 
 import React, { useContext } from "react";
 import DatePicker from "react-datepicker";

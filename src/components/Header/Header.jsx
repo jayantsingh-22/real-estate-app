@@ -58,7 +58,7 @@ const Header = () => {
           <NavMobile />
         )}
       </Flex>
-      {/* <Divider color='purple.800' w={}='20px' />  */}
+      {/* <Divider color='purple.800' w='20px' />  */}
     </chakra.header>
   );
 };
