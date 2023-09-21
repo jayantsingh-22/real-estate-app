@@ -5,7 +5,7 @@
 
 Run the project on local:
 ```
-git clone https://github.com/chitranshk1301/real-estate-frontend.git && cd propert-rent-app
+git clone https://github.com/jayantsingh-22/real-estate-frontend.git && cd propert-rent-app
 ```
 Install project dependencies,
 ```
