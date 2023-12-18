@@ -15,5 +15,5 @@ Run the application on local server
 ```
 npm run dev
 ```
-Deployed link: [click here to visit](https://real-estate-frontend-mu.vercel.app/)
+Deployed link: [click here to visit](https://reunion-task-sandy.vercel.app/)
 
